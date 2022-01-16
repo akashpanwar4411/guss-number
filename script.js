@@ -68,3 +68,5 @@ document.querySelector('.again').addEventListener('click', ()=>{
     
 
 });
+
+console.log('Welcome to the site! hope you are enjoying the game');
